@@ -5,8 +5,8 @@
 #SBATCH --cpus-per-task=15
 #SBATCH --mem=256gb
 #SBATCH --time=150:00:00
-#SBATCH --output=/mnt/tank/scratch/atomarovsky/lastalmc.log
-#SBATCH --error=/mnt/tank/scratch/atomarovsky/lastalmc.err       
+#SBATCH --output=/nfs/home/atomarovsky/lastalmc.log
+#SBATCH --error=/nfs/home/atomarovsky/lastalmc.err       
 squeue; hostname; date;
 export TOOLS=/mnt/tank/scratch/atomarovsky/tools/
 export PATH=$PATH:/mnt/tank/scratch/atomarovsky/tools/last-1179/bin
