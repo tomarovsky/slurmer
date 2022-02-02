@@ -15,6 +15,9 @@ conda activate jf
 cd /mnt/tank/scratch/skliver/common/mustelidae/martes_martes/genome/resequencing/raw/;
 
 for i in `ls */*`; do
+	if [ -d "../../../kmer/resequencing/${i%%/*}" ]; then
+		continue
+	fi;
 	mkdir ../../kmer/${i%%/*};
 	python3 $TOOLS/KrATER/scripts/jf/draw_kmer_distribution_from_fastq.py -i ${i%%.*}.1.fastq.gz,${i%%.*}.2.fastq.gz -o ../../kmer/${i%%/*}/${i%%/*} -m 23 -s 30G -t 10 -b;
 done
