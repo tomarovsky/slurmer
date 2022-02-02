@@ -15,7 +15,7 @@ conda activate jf
 cd /mnt/tank/scratch/skliver/common/mustelidae/martes_martes/genome/resequencing/raw/;
 
 for i in `ls */*`; do
-	if [ -d "../../../kmer/resequencing/${i%%/*}" ]; then
+	if [ -d "../../kmer/${i%%/*}" ]; then
 		continue
 	fi;
 	mkdir ../../kmer/${i%%/*};
