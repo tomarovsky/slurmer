@@ -1,12 +1,12 @@
 #!/bin/bash -l
-#SBATCH --job-name=TEST
+#SBATCH --job-name=mmar.stirka.trim
 #SBATCH --mail-type=END
 #SBATCH --mail-user=andrey.tomarovsky@gmail.com
 #SBATCH --cpus-per-task=32
 #SBATCH --mem=256gb
 #SBATCH --time=150:00:00
-#SBATCH --output=/mnt/tank/scratch/atomarovsky/TEST.log
-#SBATCH --error=/mnt/tank/scratch/atomarovsky/TEST.err       
+#SBATCH --output=/mnt/tank/scratch/atomarovsky/mmar.stirka.trim.log
+#SBATCH --error=/mnt/tank/scratch/atomarovsky/mmar.stirka.trim.err       
 squeue; hostname; date;
 export TOOLS=/mnt/tank/scratch/atomarovsky/tools/
 
