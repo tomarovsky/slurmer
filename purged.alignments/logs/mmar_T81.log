@@ -1,0 +1,29 @@
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+            413898      main run_7rou enoskova PD       0:00      1 (QOSMaxMemoryPerUser)
+            413899      main run_4rou enoskova PD       0:00      1 (QOSMaxMemoryPerUser)
+    414040_[82-87]      main mmar.kid atomarov PD       0:00      1 (QOSMaxCpuPerUserLimit)
+            414098      main     bash abadikov PD       0:00      1 (Resources)
+            413936      main      BWA dfedorov  R    6:57:53      1 orthrus-2
+         414040_81      main mmar.kid atomarov  R       0:06      1 orthrus-2
+         414040_79      main mmar.kid atomarov  R    3:53:39      1 kraken
+            414083      main  python3  chivdan  R      54:42      1 orthrus-1
+            414080      main get_orth afedorov  R    8:18:18      1 orthrus-1
+            414097      main run_last dzvyagin  R    2:39:58      1 orthrus-2
+            413922      main alignmen  skliver  R 1-01:53:24      1 kraken
+            413674      main  task.sh asakulin  R 3-11:37:27      1 meduza-2
+            414086      main      cov dfedorov  R    5:30:47      1 meduza-2
+            414055      main     bash vshaldin  R   13:37:09      1 meduza-1
+            414048      main     bash vshaldin  R   15:03:13      1 meduza-1
+            265431      main     bash atotikov  R 20-19:29:23      1 meduza-2
+            224157      main     bash atotikov  R 57-13:19:17      1 kraken
+            414063      main     bash abadikov  R   11:39:08      1 orthrus-1
+            377463      main 9_25_bo_ enoskova  R 10-17:25:27      1 meduza-2
+            413297      main 5_21_bo_ enoskova  R 5-14:08:03      1 meduza-2
+            413897      main run_6rou enoskova  R 1-04:43:24      1 meduza-2
+            413895      main run_5rou enoskova  R 1-04:46:44      1 meduza-2
+            413892      main run_2rou enoskova  R 1-06:08:40      1 meduza-2
+orthrus-2
+Thu May 26 03:12:05 MSK 2022
+/mnt/tank/scratch/skliver/common/mustelidae/martes_martes/genome/alignment/hic.purged/bwa_alignment
+finish!
+Thu May 26 07:47:23 MSK 2022

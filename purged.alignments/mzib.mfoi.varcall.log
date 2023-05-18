@@ -1,0 +1,13 @@
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+            618668      main blastn_r    azhuk  R 3-01:44:49      1 orthrus-2
+            618667      main blastn_r    azhuk  R 3-01:48:57      1 meduza-2
+            619007      main aligning  klytkin  R 1-04:22:48      1 meduza-2
+            619084      main mzib.mfo atomarov  R       0:00      1 orthrus-1
+            619045      main  task.sh  snaumov  R 1-03:29:42      1 griffin
+            619080      main  gone.sh enoskova  R    2:54:03      1 meduza-2
+            618733      main     bash atotikov  R 1-09:32:35      1 orthrus-1
+orthrus-1
+Wed Mar  1 19:30:20 MSK 2023
+/mnt/tank/scratch/skliver/common/mustelidae/martes_zibellina/genome/varcall/hic.purged/bcftools
+finish!
+Thu Mar  2 06:50:43 MSK 2023

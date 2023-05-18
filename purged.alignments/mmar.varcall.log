@@ -1,0 +1,18 @@
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+            416183      main test_rem izagretd PD       0:00      1 (Resources)
+            415740      main run_spad    azhuk  R 5-16:09:15      1 orthrus-2
+            416193      main mmar.bcf atomarov  R       0:01      1 kraken
+            416119      main  python3 mironovi  R 1-20:04:10      1 griffin
+            416118      main  python3 mironovi  R 1-20:05:54      1 griffin
+            416116      main  python3 mironovi  R 1-20:07:33      1 griffin
+            416114      main  python3 mironovi  R 1-20:08:21      1 griffin
+            416186      main      BWA dfedorov  R      20:26      1 kraken
+            415745      main  python3  chivdan  R 5-14:16:32      1 orthrus-2
+            416173      main 4_17_bo_ enoskova  R   11:06:40      1 meduza-2
+            413297      main 5_21_bo_ enoskova  R 16-21:03:20      1 meduza-2
+            416084      main precomp_ enoskova  R 2-14:27:42      1 kraken
+kraken
+Пн 06 июн 2022 10:07:22 MSK
+/mnt/tank/scratch/skliver/common/mustelidae/martes_martes/genome/varcall/hic.purged/bcftools
+finish!
+Чт 09 июн 2022 23:02:30 MSK

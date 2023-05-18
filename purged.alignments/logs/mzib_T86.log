@@ -1,0 +1,31 @@
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+       414293_[87]      main mzib.kid atomarov PD       0:00      1 (QOSMaxCpuPerUserLimit)
+            414393      main run_4rou enoskova PD       0:00      1 (Resources)
+            414395      main run_2rou enoskova PD       0:00      1 (ReqNodeNotAvail, UnavailableNodes:griffin)
+    414457_[86-87]      main mmar.kid atomarov PD       0:00      1 (QOSMaxCpuPerUserLimit)
+         414293_86      main mzib.kid atomarov  R       0:10      1 orthrus-2
+         414293_85      main mzib.kid atomarov  R    4:21:12      1 orthrus-2
+            414452      main     wrap gudonnet  R    2:15:05      1 kraken
+            414467      main alignmen dyakimov  R      56:45      1 kraken
+            414471      main chR13_0. echikina  R       9:08      1 kraken
+            414470      main chR13_0. echikina  R       9:13      1 meduza-2
+            414469      main chR13_0. echikina  R       9:28      1 orthrus-1
+            414374      main get_orth afedorov  R    9:19:06      1 griffin
+            414472      main  python3  chivdan  R       2:09      1 orthrus-1
+            414468      main  python3  chivdan  R      35:50      1 orthrus-1
+            413674      main  task.sh asakulin  R 5-05:56:05      1 meduza-2
+            414181      main   RepMsk dfedorov  R 1-04:22:11      1 griffin
+            414443      main      BWA dfedorov  R    4:50:03      1 meduza-2
+            414121      main alignmen  skliver  R 1-09:58:30      1 orthrus-1
+            265431      main     bash atotikov  R 22-13:48:01      1 meduza-2
+            224157      main     bash atotikov  R 59-07:37:55      1 kraken
+            414126      main  python3 mironovi  R 1-08:22:32      1 griffin
+            377463      main 9_25_bo_ enoskova  R 12-11:44:05      1 meduza-2
+            413297      main 5_21_bo_ enoskova  R 7-08:26:41      1 meduza-2
+            414392      main run_7rou enoskova  R    5:50:19      1 griffin
+            413897      main run_6rou enoskova  R 2-23:02:02      1 meduza-2
+orthrus-2
+Fri May 27 21:30:43 MSK 2022
+/mnt/tank/scratch/skliver/common/mustelidae/martes_zibellina/genome/alignment/hic.purged/bwa_alignment
+finish!
+Sat May 28 02:52:22 MSK 2022

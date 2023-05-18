@@ -1,0 +1,33 @@
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+            413898      main run_7rou enoskova PD       0:00      1 (QOSMaxMemoryPerUser)
+            413899      main run_4rou enoskova PD       0:00      1 (QOSMaxMemoryPerUser)
+    414040_[85-87]      main mmar.kid atomarov PD       0:00      1 (QOSMaxCpuPerUserLimit)
+414106_[24,76-79,8      main mzib.kid atomarov PD       0:00      1 (QOSMaxCpuPerUserLimit)
+         414040_84      main mmar.kid atomarov  R       0:04      1 orthrus-2
+         414040_83      main mmar.kid atomarov  R    3:19:13      1 orthrus-2
+            414114      main rscript_  eraines  R    1:46:58      1 meduza-2
+            413936      main      BWA dfedorov  R   15:49:04      1 orthrus-2
+            414120      main  python3  chivdan  R      41:50      1 orthrus-1
+            414119      main run1000_ dzvyagin  R      47:26      1 orthrus-1
+            413674      main  task.sh asakulin  R 3-20:28:38      1 meduza-2
+            414098      main     bash abadikov  R    3:19:13      1 kraken
+            414055      main     bash vshaldin  R   22:28:20      1 meduza-1
+            414048      main     bash vshaldin  R   23:54:24      1 meduza-1
+            414121      main alignmen  skliver  R      31:03      1 orthrus-1
+            265431      main     bash atotikov  R 21-04:20:34      1 meduza-2
+            224157      main     bash atotikov  R 57-22:10:28      1 kraken
+            377463      main 9_25_bo_ enoskova  R 11-02:16:38      1 meduza-2
+            413297      main 5_21_bo_ enoskova  R 5-22:59:14      1 meduza-2
+            413897      main run_6rou enoskova  R 1-13:34:35      1 meduza-2
+            413895      main run_5rou enoskova  R 1-13:37:55      1 meduza-2
+            413892      main run_2rou enoskova  R 1-14:59:51      1 meduza-2
+            414115      main     bash abadikov  R    1:47:23      1 kraken
+            414113      main     bash abadikov  R    1:49:36      1 kraken
+            414112      main     bash abadikov  R    1:51:24      1 kraken
+            414111      main     bash abadikov  R    1:52:32      1 kraken
+            414110      main     bash abadikov  R    1:55:58      1 kraken
+orthrus-2
+Thu May 26 12:03:16 MSK 2022
+/mnt/tank/scratch/skliver/common/mustelidae/martes_martes/genome/alignment/hic.purged/bwa_alignment
+finish!
+Thu May 26 17:18:26 MSK 2022

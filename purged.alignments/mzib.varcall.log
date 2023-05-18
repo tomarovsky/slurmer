@@ -1,0 +1,24 @@
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+            416782      main  python3  chivdan PD       0:00      1 (InvalidAccount)
+            416783      main  python3  chivdan PD       0:00      1 (InvalidAccount)
+            413297      main 5_21_bo_ enoskova PD       0:00      1 (InvalidAccount)
+            416173      main 4_17_bo_ enoskova PD       0:00      1 (InvalidAccount)
+            415740      main run_spad    azhuk PD       0:00      1 (InvalidAccount)
+            416732      main      BWA dfedorov PD       0:00      1 (InvalidAccount)
+            416084      main precomp_ enoskova PD       0:00      1 (InvalidAccount)
+            416296      main p_F_add. enoskova PD       0:00      1 (InvalidAccount)
+            416778      main  python3  chivdan  R   11:10:58      1 orthrus-1
+            416789      main mzib.bcf atomarov  R       0:01      1 meduza-1
+            416518      main  python3  chivdan  R 1-20:35:31      1 orthrus-2
+            416302      main  python3  chivdan  R 3-00:00:28      1 orthrus-2
+            415745      main  python3  chivdan  R 9-16:34:05      1 orthrus-2
+            416237      main  python3 mironovi  R 3-16:18:27      1 griffin
+            416228      main  python3 mironovi  R 3-19:02:46      1 griffin
+            416227      main  python3 mironovi  R 3-19:02:58      1 griffin
+            416226      main  python3 mironovi  R 3-19:03:29      1 griffin
+            416225      main  python3 mironovi  R 3-19:07:12      1 griffin
+meduza-1
+Fri Jun 10 12:24:55 MSK 2022
+/mnt/tank/scratch/skliver/common/mustelidae/martes_zibellina/genome/varcall/hic.purged/bcftools
+finish!
+Sun Jun 12 01:48:16 MSK 2022

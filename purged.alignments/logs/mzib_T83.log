@@ -1,0 +1,27 @@
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+            413899      main run_4rou enoskova PD       0:00      1 (QOSMaxMemoryPerUser)
+    414293_[84-87]      main mzib.kid atomarov PD       0:00      1 (QOSMaxCpuPerUserLimit)
+            413898      main run_7rou enoskova  R   15:08:27      1 meduza-2
+            414325      main rscript_  eraines  R   12:07:29      1 meduza-2
+         414293_83      main mzib.kid atomarov  R       0:05      1 orthrus-2
+         414293_82      main mzib.kid atomarov  R      24:18      1 orthrus-2
+            414362      main  python3  chivdan  R      39:41      1 orthrus-1
+            414361      main  python3  chivdan  R      42:57      1 orthrus-1
+            413674      main  task.sh asakulin  R 4-19:54:08      1 meduza-2
+            414181      main   RepMsk dfedorov  R   18:20:14      1 griffin
+            414055      main     bash vshaldin  R 1-21:53:50      1 meduza-1
+            414048      main     bash vshaldin  R 1-23:19:54      1 meduza-1
+            414121      main alignmen  skliver  R   23:56:33      1 orthrus-1
+            265431      main     bash atotikov  R 22-03:46:04      1 meduza-2
+            414180      main      cov dfedorov  R   18:21:26      1 kraken
+            224157      main     bash atotikov  R 58-21:35:58      1 kraken
+            414126      main  python3 mironovi  R   22:20:35      1 griffin
+            377463      main 9_25_bo_ enoskova  R 12-01:42:08      1 meduza-2
+            413297      main 5_21_bo_ enoskova  R 6-22:24:44      1 meduza-2
+            413897      main run_6rou enoskova  R 2-13:00:05      1 meduza-2
+            413892      main run_2rou enoskova  R 2-14:25:21      1 meduza-2
+orthrus-2
+Fri May 27 11:28:46 MSK 2022
+/mnt/tank/scratch/skliver/common/mustelidae/martes_zibellina/genome/alignment/hic.purged/bwa_alignment
+finish!
+Fri May 27 17:09:31 MSK 2022
